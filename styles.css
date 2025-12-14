@@ -263,7 +263,7 @@ header {
 
 .header__email--btn {
     z-index: 2;
-    max-resolution: 8px;
+    /*max-resolution: 8px;*/
     height: calc(100% - 16px);
     border-radius: 500px;
     width: 160px;
